@@ -16,8 +16,8 @@ As an early backend engineer, I have contributed to the growth of a hyper-growth
 
 - 💬 Ask me about scalble backend development and platform engineering.
 - 📫 How to reach me:
-  - pymaninbox [at] gmail [dot] com
-  - pymanreads [at] gmail [dot] com
+  - inbox.pyman [at] gmail [dot] com
+  - pyman.reads [at] gmail [dot] com
 - ⚡ Fun fact: I don't have a favourite color but my wife thinks it's green!
 
 ## Skills
