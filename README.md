@@ -27,8 +27,5 @@ As an early backend engineer, I have contributed to the growth of a hyper-growth
 - **Tools and Platforms:** Docker, Ansible, Terraform, Kubernetes, AWS
 - **Other Skills:** Building and managing cloud infrastructure, developing REST APIs, creating developer tools
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjitkumar&layout=compact&theme=radical)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/manjitkumar/)
